@@ -1,0 +1,11 @@
+.countryFlag__info {
+    height: 120px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.pop__info {
+    border-block-color: red;
+    padding: 20px;
+}
